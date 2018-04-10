@@ -123,4 +123,25 @@ body{
 	vertical-align: top;
 }
 
+#recipe {
+	background: url(images/backgraund_content.png);
+    padding: 10px; /* Поля вокруг текста */
+	padding-left: 230px; /* Поле слева */
+}
 
+
+#recipe p {
+	font:  18px Times New Roman;
+
+}
+
+#recipe h1 {
+	font:  20px Times New Roman;
+	text-align: center;
+	color: #A52A2A;
+
+}
+
+#recipe p1 {
+	font:  18px Times New Roman;
+}
